@@ -6,4 +6,5 @@ $ ssh-add ~/.ssh/id_rsa # store identity
 $ -copy ~/.ssh/id_rsa.pub with 'ssh-res xxxxxx..' and add SSH keys in github
 $ ssh -T git@github.com   # passphrase = k..m....101
 $ git clone SSH-LINK_GIT
+$ git push origin main
 $ add-more comments
