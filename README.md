@@ -1,6 +1,6 @@
 # git-lession
 
-# Setting up SynTrack 2.0.1
+# Setting up My WEB site 2.0.1
 
 ## Set up your python virtual environment (virtualenv)
 
