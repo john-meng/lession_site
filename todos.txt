@@ -1,0 +1,23 @@
+this is a test for git to do
+TO DO: create all users:
+		name list for training
+		migration	to python 3
+		migration to python 3 on what day?
+
+the meeting notes:
+
+1. Display PMO-wip data on the Desing tab 
+2. ADIOS updates order date and cost 
+3. export PMO-wip data to other apps
+4. meeting with Twist pepple
+5. learn something new
+
+
+for trials in range(10):
+...    print
+... ... ...
+for clusters in range(12,18):
+    model = KMeans.train(rdd3,clusters)
+    print clusters, model.computeCost(rdd3)
+
+
